@@ -1,6 +1,6 @@
-### Olá! Meu nome é Cauê Lopes Marques  👋
+### Hi! My name is Cauê Lopes Marques  👋
 
--📚 Atualmente estou estudando Java
+-📚 I'm currently learning Java
 
 <div>
   <a href="https://github.com/marquescauee">
