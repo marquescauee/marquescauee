@@ -1,6 +1,6 @@
 ### Hi! My name is Cauê Lopes Marques  👋
 
--📚 I'm currently learning Java
+-📚 I'm currently learning PHP and Laravel
 
 <div>
   <a href="https://github.com/marquescauee">
