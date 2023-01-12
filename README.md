@@ -1,6 +1,6 @@
 ### Hi! My name is Cauê Lopes Marques  👋
 
-- 📚 I'm currently learning PHP and Laravel
+- 📚 I'm currently learning C#, .NET Core and ASP .NET Core
 - :coffee: I like to learn Java whenever I have time :stuck_out_tongue_winking_eye:
 
 <div>
