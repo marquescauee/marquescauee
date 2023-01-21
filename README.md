@@ -1,7 +1,6 @@
 ### Hi! My name is Cauê Lopes Marques  👋
 
-- 📚 I'm currently learning C#, .NET Core and ASP .NET Core
-- :coffee: I like to learn Java whenever I have time :stuck_out_tongue_winking_eye:
+- :coffee: I'm currently studying Spring and improving my Java knowledge :stuck_out_tongue_winking_eye:
 
  <div>
   <a href="https://github.com/marquescauee">
