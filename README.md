@@ -1,6 +1,6 @@
 ### Hi! My name is Cauê Lopes Marques  👋
 
-- :coffee: I'm currently studying Spring and improving my Java knowledge :stuck_out_tongue_winking_eye:
+- :coffee: I'm currently studying Spring and React :stuck_out_tongue_winking_eye:
 
  <div>
   <a href="https://github.com/marquescauee">
