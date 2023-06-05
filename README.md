@@ -1,6 +1,8 @@
 ### Hi! My name is Cauê Lopes Marques  👋
 
-- :coffee: I'm currently studying Spring and React :stuck_out_tongue_winking_eye:
+- 22 years old
+- I'm from Florianópolis, Santa Catarina, Brasil
+- Currently working with React
 
  <div>
   <a href="https://github.com/marquescauee">
