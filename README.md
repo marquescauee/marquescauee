@@ -7,7 +7,7 @@
  <div>
   <a href="https://github.com/marquescauee">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marquescauee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marquescauee&layout=compact&langs_count=5&theme=dark&hide=css"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marquescauee&layout=compact&langs_count=5&theme=dark&hide=blade"/>
 </div>
  
 <div style="display: flex"><br>
