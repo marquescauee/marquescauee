@@ -1,6 +1,6 @@
 ### Hi! My name is Cauê Lopes Marques  👋
 
-* 22 years old
+* 23 years old
 * I'm from Florianópolis, Santa Catarina, Brasil
 * Currently working with React
 
