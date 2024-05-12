@@ -6,7 +6,7 @@
 
  <div>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marquescauee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marquescauee&layout=compact&langs_count=5&theme=dark&hide=C#"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marquescauee&layout=compact&langs_count=5&theme=dark&hide=blade,c%23"/>
 </div>
  
 <div style="display: flex"><br>
