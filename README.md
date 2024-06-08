@@ -2,7 +2,7 @@
 
 * 23 years old
 * I'm from Florianópolis, Santa Catarina, Brasil
-* Currently working with React
+* Currently working with React and Node
 
  <div>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marquescauee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
