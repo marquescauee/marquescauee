@@ -3,11 +3,6 @@
 * 24 years old
 * I'm from Florianópolis, Santa Catarina, Brasil
 * Currently working with React and Node
-
- <div>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marquescauee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marquescauee&layout=compact&langs_count=5&theme=dark&hide=blade,c%23"/>
-</div>
  
 <div style="display: flex"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
